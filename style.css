@@ -34,19 +34,3 @@ body {
 
 
 
-footer {
-    position: absolute;
-    left: 50%;
-    bottom: 30px;
-    transform: translateX(-50%);
-}
-footer mark {
-    padding: 8px 30px;
-    border-radius: 7px;
-}
-footer a {
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: bold;
-    color: #003;
-}
